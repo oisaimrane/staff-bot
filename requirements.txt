@@ -1,0 +1,4 @@
+discord.py==2.5.1
+python-dotenv==1.0.0  # Optional, if you store the token in an .env file
+pylint==2.17.5
+black==23.1.0
